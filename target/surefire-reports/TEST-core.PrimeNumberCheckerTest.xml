@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="core.PrimeNumberCheckerTest" time="1.981" tests="99" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/users/maluy/Desktop/Workspace/HW_35"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="test" value="PrimeNumberCheckerTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/maluy/Desktop/Workspace/HW_35"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/59/rv1j4l2s6lxfp0vlypzcr5c80000gp/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/usr/local/maven/apache-maven-3.3.9/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/maluy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.12.6"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/maluy"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="maluy"/>
+    <property name="java.class.path" value="/usr/local/maven/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean site -Dtest=PrimeNumberCheckerTest"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="/Users/maluy/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/local/maven/apache-maven-3.3.9"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="TC-01.01" classname="core.PrimeNumberCheckerTest" time="0.365"/>
+  <testcase name="TC-01.02" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.03" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.04" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.05" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.06" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="TC-01.07" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.08" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.09" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.10" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.11" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.12" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.13" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.14" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.15" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.16" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.17" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.18" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.19" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.20" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.21" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.22" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.23" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.24" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.25" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.26" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.27" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.28" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.29" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.30" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.31" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.32" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.33" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.34" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.35" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.36" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.37" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.38" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.39" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.40" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.41" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.42" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.43" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.44" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.45" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.46" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.47" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.48" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.49" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.50" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.51" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.52" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.53" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.54" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.55" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.56" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.57" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.58" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.59" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.60" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.61" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.62" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.63" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="TC-01.64" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.65" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.66" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.67" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.68" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.69" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.70" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.71" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.72" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.73" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.74" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.75" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.76" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.77" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.78" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.79" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.80" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.81" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.82" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.83" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.84" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.85" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.86" classname="core.PrimeNumberCheckerTest" time="0.003"/>
+  <testcase name="TC-01.87" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.88" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.89" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.90" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.91" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.92" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.93" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="TC-01.94" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.95" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.96" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.97" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.98" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="TC-01.99" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+</testsuite>

@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504665740796" stop="1504665741632" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Surefire suite : Surefire test</name>
+    <title>Surefire suite : Surefire test</title>
+    <test-cases>
+        <test-case start="1504665741232" stop="1504665741263" status="passed">
+            <name>TC-01.01[TC-01.01,2,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741270" stop="1504665741272" status="passed">
+            <name>TC-01.02[TC-01.02,3,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741274" stop="1504665741275" status="passed">
+            <name>TC-01.03[TC-01.03,4,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741276" stop="1504665741277" status="passed">
+            <name>TC-01.04[TC-01.04,5,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741279" stop="1504665741281" status="passed">
+            <name>TC-01.05[TC-01.05,6,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741283" stop="1504665741287" status="passed">
+            <name>TC-01.06[TC-01.06,7,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741288" stop="1504665741289" status="passed">
+            <name>TC-01.07[TC-01.07,8,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741292" stop="1504665741293" status="passed">
+            <name>TC-01.08[TC-01.08,9,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741295" stop="1504665741296" status="passed">
+            <name>TC-01.09[TC-01.09,10,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741297" stop="1504665741298" status="passed">
+            <name>TC-01.10[TC-01.10,11,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741300" stop="1504665741301" status="passed">
+            <name>TC-01.11[TC-01.11,12,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741304" stop="1504665741305" status="passed">
+            <name>TC-01.12[TC-01.12,13,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741307" stop="1504665741308" status="passed">
+            <name>TC-01.13[TC-01.13,14,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741310" stop="1504665741311" status="passed">
+            <name>TC-01.14[TC-01.14,15,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741313" stop="1504665741314" status="passed">
+            <name>TC-01.15[TC-01.15,16,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741316" stop="1504665741319" status="passed">
+            <name>TC-01.16[TC-01.16,17,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741321" stop="1504665741322" status="passed">
+            <name>TC-01.17[TC-01.17,18,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741324" stop="1504665741325" status="passed">
+            <name>TC-01.18[TC-01.18,19,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741327" stop="1504665741328" status="passed">
+            <name>TC-01.19[TC-01.19,20,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741330" stop="1504665741331" status="passed">
+            <name>TC-01.20[TC-01.20,21,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741334" stop="1504665741335" status="passed">
+            <name>TC-01.21[TC-01.21,22,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741337" stop="1504665741338" status="passed">
+            <name>TC-01.22[TC-01.22,23,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741340" stop="1504665741341" status="passed">
+            <name>TC-01.23[TC-01.23,24,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741344" stop="1504665741345" status="passed">
+            <name>TC-01.24[TC-01.24,25,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741346" stop="1504665741347" status="passed">
+            <name>TC-01.25[TC-01.25,26,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741350" stop="1504665741351" status="passed">
+            <name>TC-01.26[TC-01.26,27,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741352" stop="1504665741354" status="passed">
+            <name>TC-01.27[TC-01.27,28,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741355" stop="1504665741356" status="passed">
+            <name>TC-01.28[TC-01.28,29,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741357" stop="1504665741358" status="passed">
+            <name>TC-01.29[TC-01.29,30,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741360" stop="1504665741361" status="passed">
+            <name>TC-01.30[TC-01.30,31,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741362" stop="1504665741363" status="passed">
+            <name>TC-01.31[TC-01.31,32,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741364" stop="1504665741365" status="passed">
+            <name>TC-01.32[TC-01.32,33,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741367" stop="1504665741368" status="passed">
+            <name>TC-01.33[TC-01.33,34,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741370" stop="1504665741371" status="passed">
+            <name>TC-01.34[TC-01.34,35,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741373" stop="1504665741374" status="passed">
+            <name>TC-01.35[TC-01.35,36,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741376" stop="1504665741377" status="passed">
+            <name>TC-01.36[TC-01.36,37,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741379" stop="1504665741381" status="passed">
+            <name>TC-01.37[TC-01.37,38,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741382" stop="1504665741383" status="passed">
+            <name>TC-01.38[TC-01.38,39,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741385" stop="1504665741386" status="passed">
+            <name>TC-01.39[TC-01.39,40,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741388" stop="1504665741389" status="passed">
+            <name>TC-01.40[TC-01.40,41,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741391" stop="1504665741392" status="passed">
+            <name>TC-01.41[TC-01.41,42,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741394" stop="1504665741394" status="passed">
+            <name>TC-01.42[TC-01.42,43,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741396" stop="1504665741397" status="passed">
+            <name>TC-01.43[TC-01.43,44,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741399" stop="1504665741400" status="passed">
+            <name>TC-01.44[TC-01.44,45,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741403" stop="1504665741405" status="passed">
+            <name>TC-01.45[TC-01.45,46,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741407" stop="1504665741409" status="passed">
+            <name>TC-01.46[TC-01.46,47,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741412" stop="1504665741413" status="passed">
+            <name>TC-01.47[TC-01.47,48,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741417" stop="1504665741418" status="passed">
+            <name>TC-01.48[TC-01.48,49,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741421" stop="1504665741422" status="passed">
+            <name>TC-01.49[TC-01.49,50,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741424" stop="1504665741425" status="passed">
+            <name>TC-01.50[TC-01.50,51,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741427" stop="1504665741428" status="passed">
+            <name>TC-01.51[TC-01.51,52,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741430" stop="1504665741432" status="passed">
+            <name>TC-01.52[TC-01.52,53,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741438" stop="1504665741440" status="passed">
+            <name>TC-01.53[TC-01.53,54,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741441" stop="1504665741442" status="passed">
+            <name>TC-01.54[TC-01.54,55,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741445" stop="1504665741446" status="passed">
+            <name>TC-01.55[TC-01.55,56,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741448" stop="1504665741449" status="passed">
+            <name>TC-01.56[TC-01.56,57,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741451" stop="1504665741453" status="passed">
+            <name>TC-01.57[TC-01.57,58,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741455" stop="1504665741456" status="passed">
+            <name>TC-01.58[TC-01.58,59,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741457" stop="1504665741458" status="passed">
+            <name>TC-01.59[TC-01.59,60,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741460" stop="1504665741461" status="passed">
+            <name>TC-01.60[TC-01.60,61,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741462" stop="1504665741463" status="passed">
+            <name>TC-01.61[TC-01.61,62,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741465" stop="1504665741466" status="passed">
+            <name>TC-01.62[TC-01.62,63,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741468" stop="1504665741471" status="passed">
+            <name>TC-01.63[TC-01.63,64,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741473" stop="1504665741474" status="passed">
+            <name>TC-01.64[TC-01.64,65,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741477" stop="1504665741478" status="passed">
+            <name>TC-01.65[TC-01.65,66,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741479" stop="1504665741480" status="passed">
+            <name>TC-01.66[TC-01.66,67,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741482" stop="1504665741483" status="passed">
+            <name>TC-01.67[TC-01.67,68,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741485" stop="1504665741486" status="passed">
+            <name>TC-01.68[TC-01.68,69,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741487" stop="1504665741488" status="passed">
+            <name>TC-01.69[TC-01.69,70,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741490" stop="1504665741491" status="passed">
+            <name>TC-01.70[TC-01.70,71,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741492" stop="1504665741493" status="passed">
+            <name>TC-01.71[TC-01.71,72,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741495" stop="1504665741496" status="passed">
+            <name>TC-01.72[TC-01.72,73,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741497" stop="1504665741498" status="passed">
+            <name>TC-01.73[TC-01.73,74,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741501" stop="1504665741503" status="passed">
+            <name>TC-01.74[TC-01.74,75,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741505" stop="1504665741506" status="passed">
+            <name>TC-01.75[TC-01.75,76,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741507" stop="1504665741508" status="passed">
+            <name>TC-01.76[TC-01.76,77,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741510" stop="1504665741511" status="passed">
+            <name>TC-01.77[TC-01.77,78,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741513" stop="1504665741514" status="passed">
+            <name>TC-01.78[TC-01.78,79,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741515" stop="1504665741516" status="passed">
+            <name>TC-01.79[TC-01.79,80,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741519" stop="1504665741520" status="passed">
+            <name>TC-01.80[TC-01.80,81,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741521" stop="1504665741523" status="passed">
+            <name>TC-01.81[TC-01.81,82,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741525" stop="1504665741526" status="passed">
+            <name>TC-01.82[TC-01.82,83,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741528" stop="1504665741529" status="passed">
+            <name>TC-01.83[TC-01.83,84,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741530" stop="1504665741531" status="passed">
+            <name>TC-01.84[TC-01.84,85,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741532" stop="1504665741533" status="passed">
+            <name>TC-01.85[TC-01.85,86,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741536" stop="1504665741537" status="passed">
+            <name>TC-01.86[TC-01.86,87,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741538" stop="1504665741539" status="passed">
+            <name>TC-01.87[TC-01.87,88,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741540" stop="1504665741542" status="passed">
+            <name>TC-01.88[TC-01.88,89,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741543" stop="1504665741544" status="passed">
+            <name>TC-01.89[TC-01.89,90,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741545" stop="1504665741547" status="passed">
+            <name>TC-01.90[TC-01.90,91,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741548" stop="1504665741549" status="passed">
+            <name>TC-01.91[TC-01.91,92,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741551" stop="1504665741552" status="passed">
+            <name>TC-01.92[TC-01.92,93,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741553" stop="1504665741554" status="passed">
+            <name>TC-01.93[TC-01.93,94,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741555" stop="1504665741556" status="passed">
+            <name>TC-01.94[TC-01.94,95,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741558" stop="1504665741559" status="passed">
+            <name>TC-01.95[TC-01.95,96,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741560" stop="1504665741562" status="passed">
+            <name>TC-01.96[TC-01.96,97,TRUE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741564" stop="1504665741565" status="passed">
+            <name>TC-01.97[TC-01.97,98,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741566" stop="1504665741567" status="passed">
+            <name>TC-01.98[TC-01.98,99,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504665741569" stop="1504665741570" status="passed">
+            <name>TC-01.99[TC-01.99,100,FALSE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="91891@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

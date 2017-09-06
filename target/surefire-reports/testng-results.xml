@@ -1,0 +1,3676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="99" passed="99">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="806" started-at="2017-09-06T02:42:20Z" finished-at="2017-09-06T02:42:21Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="806" started-at="2017-09-06T02:42:20Z" finished-at="2017-09-06T02:42:21Z">
+      <class name="core.PrimeNumberCheckerTest">
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="18" started-at="2017-09-05T19:42:20Z" finished-at="2017-09-05T19:42:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@d08edc5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="367" started-at="2017-09-05T19:42:20Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@49fa1d74]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3f362135]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@21eee94f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6bc24e72]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@724aefc3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="4" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.06]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7cfb4736]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.08]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2a097d77]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.09]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@53c1179a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7650ded6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5034f5dd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@31b7d869]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6a916402]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1a47a1e8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6d2a2560]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@62d1dc3c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="4" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3811510]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@24eeac69]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@18539cb1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@748f93bb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7f2d31af]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2e7157c7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2a43e0ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.24]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@22d9bc14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@346f41a9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1084f78c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@25f723b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.27]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4aa11206]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@40d60f2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3382cf68]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.31]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2f74900b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6d8796c1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.33]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2e26173]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@27be17c8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.34]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.35]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2c413ffc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.36]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[37]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7d21852b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6cd98a05]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.37]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[38]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3b8ec001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.38]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[39]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1e95b653]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.39]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.40]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[41]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6f6c6077]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4fc5563d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.41]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[42]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@286090c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.42]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[43]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.43]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@31120021]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3df1a1ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.44]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="4" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.45]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[46]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@58606c91]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.46]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[47]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6a9cd0f8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4baed682]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.47]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[48]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="4" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.48]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7be2f29a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@203d1d93]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.49]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.50]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[51]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2c2a027c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@118dcbbd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.51]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[52]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7d979d34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.52]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[53]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.53]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@350ec690]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@49cb1baf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[55]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.55]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[56]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3664f108]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@77dba4cd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[57]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@34a2d6e0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.57]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[58]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2525a5b8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.58]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[59]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3458eca5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.59]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1e0fdb2f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.60]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[61]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3c380bd8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.61]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[62]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@34b87182]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.62]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[63]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@47768e74]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.63]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[64]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2740e316]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.64]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[65]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5b5a4aed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.65]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2c991465]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.66]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[67]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.67]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[68]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5fef2aac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.68]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[69]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7f973a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@76130a29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.69]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@124d02b2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.70]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[71]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3451f01d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.71]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[72]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@72503b19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.72]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[73]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1cfc2538]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.73]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[74]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.74]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[75]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@66deec87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5d342959]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.75]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[76]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2ecf5915]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.76]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[77]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@53e76c11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.77]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[78]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.78]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[79]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@42cc183e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3e4e8fdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.79]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6a1d6ef2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.80]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2721044]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.81]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[82]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.82]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[83]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@205df5dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.83]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[84]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6aa7b67f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6bcc3f27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.84]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[85]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@79aee22a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.85]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[86]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[87]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@36920bd6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@61514735]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.87]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[88]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6bee793f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.88]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[89]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@655f69da]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.89]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@43b5021c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.90]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[91]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@28369db0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.91]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[92]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.92]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[93]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@30893e08]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2e86807a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.93]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[94]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="1" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4548d254]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.94]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[95]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.95]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[96]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@590f0c50]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@208f0007]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="3" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.96]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[97]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3a90c13c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="1" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.97]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[98]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@39c96e48]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.98]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bm(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="bm" is-config="true" duration-ms="0" started-at="2017-09-05T19:42:21Z" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@188598ad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@30506c0d]" test-instance-name="TC-01.99" name="test" duration-ms="2" started-at="2017-09-05T19:42:21Z" data-provider="dp" finished-at="2017-09-05T19:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- core.PrimeNumberCheckerTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,574 @@
+<html>
+<head>
+<title>TestNG:  Surefire test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Surefire test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>99/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Sep 05 19:42:20 PDT 2017</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (806 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.01, 2, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.02, 3, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.03, 4, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.04, 5, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.05, 6, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.06, 7, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.07, 8, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.08, 9, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.09, 10, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.10, 11, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.11, 12, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.12, 13, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.13, 14, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.14, 15, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.15, 16, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.16, 17, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.17, 18, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.18, 19, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.19, 20, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.20, 21, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.21, 22, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.22, 23, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.23, 24, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.24, 25, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.25, 26, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.26, 27, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.27, 28, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.28, 29, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.29, 30, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.30, 31, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.31, 32, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.32, 33, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.33, 34, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.34, 35, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.35, 36, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.36, 37, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.37, 38, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.38, 39, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.39, 40, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.40, 41, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.41, 42, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.42, 43, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.43, 44, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.44, 45, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.45, 46, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.46, 47, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.47, 48, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.48, 49, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.49, 50, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.50, 51, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.51, 52, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.52, 53, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.53, 54, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.54, 55, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.55, 56, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.56, 57, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.57, 58, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.58, 59, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.59, 60, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.60, 61, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.61, 62, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.62, 63, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.63, 64, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.64, 65, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.65, 66, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.66, 67, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.67, 68, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.68, 69, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.69, 70, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.70, 71, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.71, 72, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.72, 73, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.73, 74, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.74, 75, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.75, 76, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.76, 77, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.77, 78, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.78, 79, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.79, 80, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.80, 81, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.81, 82, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.82, 83, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.83, 84, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.84, 85, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.85, 86, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.86, 87, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.87, 88, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.88, 89, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.89, 90, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.90, 91, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.91, 92, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.92, 93, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.93, 94, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.94, 95, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.95, 96, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.96, 97, TRUE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.97, 98, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.98, 99, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+<tr>
+<td title='core.PrimeNumberCheckerTest.test()'><b>test</b><br>Test class: core.PrimeNumberCheckerTest (TC-01.99)<br>Parameters: TC-01.99, 100, FALSE</td>
+<td></td>
+<td>0</td>
+<td>core.PrimeNumberCheckerTest@30506c0d</td></tr>
+</table><p>
+</body>
+</html>
